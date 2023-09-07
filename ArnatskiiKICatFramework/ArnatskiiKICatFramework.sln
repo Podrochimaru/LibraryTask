@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArnatskiiKICatFramework", "ArnatskiiKICatFramework\ArnatskiiKICatFramework.csproj", "{5BDC8765-0130-47D7-8BF9-0025D55BEE9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArnatskiiKI_CatApplication1", "ArnatskiiKI_CatApplication1\ArnatskiiKI_CatApplication1.csproj", "{AEB1A5EB-D56E-42FA-819E-1C877944B57D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BDC8765-0130-47D7-8BF9-0025D55BEE9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BDC8765-0130-47D7-8BF9-0025D55BEE9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BDC8765-0130-47D7-8BF9-0025D55BEE9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BDC8765-0130-47D7-8BF9-0025D55BEE9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEB1A5EB-D56E-42FA-819E-1C877944B57D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEB1A5EB-D56E-42FA-819E-1C877944B57D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEB1A5EB-D56E-42FA-819E-1C877944B57D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEB1A5EB-D56E-42FA-819E-1C877944B57D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
