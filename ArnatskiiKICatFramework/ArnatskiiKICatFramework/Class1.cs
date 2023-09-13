@@ -10,5 +10,12 @@ public abstract class Cat
     {
         get;
     }
+
+    public abstract string FluffinessCheck();
     public abstract string CheckFluffiness();
+    public override string ToString()
+    {
+        return $"A cat with fluffiness: {this.Fluffiness}";
+    }
+    
 } 
